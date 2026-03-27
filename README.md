@@ -4,7 +4,7 @@ A playful interactive web experience where ants swarm, surround, and carry away 
 
 ## Preview
 
-![Game Preview](./preview.png)
+![Game Preview](previewthis.png)
 
 ## Live
 
